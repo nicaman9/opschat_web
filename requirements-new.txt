@@ -1,0 +1,16 @@
+# Required libraries for the Ops Chatbot application
+
+# For natural language processing (keyword extraction)
+nltk
+
+# For image handling (background, profile picture)
+Pillow
+
+# For making HTTP requests (web scraping)
+requests
+
+# For parsing HTML content (web scraping)
+beautifulsoup4
+
+# For Active Directory authentication (optional, but included for completeness)
+ldap3
